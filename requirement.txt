@@ -1,0 +1,14 @@
+auto-py-to-exe==2.42.0
+beautifulsoup4==4.10.0
+pyinstaller==6.1.0
+pyinstaller-hooks-contrib==2023.10
+PyNaCl==1.5.0
+pyparsing==2.4.7
+PyQt5==5.15.6
+PyQt5-sip==12.9.1
+python-apt==2.4.0+ubuntu2
+python-debian==0.1.43+ubuntu1.1
+python-gnupg==0.4.8
+python-magic==0.4.24
+python-xlib==0.29
+pyuic5-tool==0.0.1
